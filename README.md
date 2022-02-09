@@ -2,7 +2,7 @@
 
 ## Welcome to my Github Profile
 
-I am a person trying to improve herself on the front-end. Mostly I'm work with React.JS. And I'm trying to learn everything what the front-end requires.
+I am a person trying to improve himself on the front-end. Mostly I'm work with React.JS. And I'm trying to learn everything what the front-end requires.
 
 ## 💖 I like;
 
