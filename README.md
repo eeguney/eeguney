@@ -1,6 +1,6 @@
 # 👋 Hello World
 
-## Welcome to my Github Profile
+## Welcome to Emre Güney's Profile
 
 I am a person trying to improve himself on the front-end. Mostly I'm work with React.JS. And I'm trying to learn everything what the front-end requires.
 
