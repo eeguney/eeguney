@@ -6,7 +6,7 @@ I am a person who trying to improve himself on the front-end. Mostly I'm work wi
 
 ## 😍 I like;
 
-For now, I'm trying to understand and improve myself about React.JS and Javascript world. I've also been interested in HTML and CSS for a long time.
+For now, I'm trying to understand and improve myself about React.JS, Node.JS, Next.JS and Web 3.0. I've also been interested in HTML and CSS for a long time.
 
 I want to learn more and more every day. 🤘
 
