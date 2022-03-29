@@ -12,5 +12,7 @@ I want to learn more and more every day. 🤘
 
 ## 🧐 Check out some of my projects;
 
-- [React Budget Planner App](https://github.com/eeguney/react-budget-planner-app) - **Recommended** ✨
+- [Mern Instagram Clone](https://github.com/eeguney/mern-instagram-clone) - **Recommended** ✨
 - [Mern Next.js Emre Guney Blog](https://github.com/eeguney/mern-next.js-emreguney-blog) - **Recommended** ✨
+- [React Budget Planner App](https://github.com/eeguney/react-budget-planner-app) - **Recommended** ✨
+- 
