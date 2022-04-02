@@ -19,6 +19,5 @@ I want to learn more and more every day. 🤘
 - [Vanilla JS Stopwatch Timer](https://github.com/eeguney/vanilla-js-stopwatch-timer)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeguney&show_icons=true&theme=gradient)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eeguney)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeguney&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeguney&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
