@@ -10,6 +10,18 @@ For now, I'm trying to understand and improve myself about React.JS, Node.JS, Ne
 
 I want to learn more and more every day. 🤘
 
+## :punch: My Goals;
+
+### Learn Web 3.0 and improve yourself
+Writing smart contracts and decentralized applications on the Ethereum network with Solidity.
+### Getting used to writing Typescript
+I should devote more time to Typescript.
+### Learn Vue.js and Nuxt.js
+I need to learn Vue and Nuxt alongside React and Next.
+### Learn Swift and Flutter or React Native
+Become able to write fullstack applications on the mobile side.
+### Improve my English
+
 ## 🧐 Check out some of my projects;
 
 - [Mern Instagram Clone](https://github.com/eeguney/mern-instagram-clone) - **Recommended** ✨
