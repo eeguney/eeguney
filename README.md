@@ -18,4 +18,5 @@ I want to learn more and more every day. 🤘
 - [Vanilla JS Password Generator](https://github.com/eeguney/vanilla-javascript-password-generator)
 - [Vanilla JS Stopwatch Timer](https://github.com/eeguney/vanilla-js-stopwatch-timer)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeguney)](https://github.com/anuraghazra/github-readme-stats)
