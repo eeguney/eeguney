@@ -2,11 +2,11 @@
 
 ## Welcome to Emre Güney's Profile
 
-I am a person who trying to improve himself on the <strong>frontend</strong>. Mostly I'm work with React.JS. And I'm trying to learn everything what the frontend requires.
+I am a person who trying to improve himself on the <strong>frontend</strong>. Mostly I'm work with <strong>React.JS</strong> And I'm trying to learn everything what the frontend requires.
 
 ## 😍 I like;
 
-For now, I'm trying to understand and improve myself about React.JS, Node.JS, Next.JS and Web 3.0. I've also been interested in HTML and CSS for a long time.
+For now, I'm trying to understand and improve myself about <strong>React.JS</strong>, <strong>Node.JS</strong>, <strong>Next.JS</strong> and <strong>Web 3.0</strong> I've also been interested in <strong>HTML and CSS</strong> for a long time.
 
 I want to learn more and more every day. 🤘
 
