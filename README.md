@@ -23,6 +23,7 @@ I want to learn more and more every day. 🤘
 - [Mern Instagram Clone](https://github.com/eeguney/mern-instagram-clone) - **Recommended** ✨
 - [Mern Next.js Emre Guney Blog](https://github.com/eeguney/mern-next.js-emreguney-blog) - **Recommended** ✨
 - [React Native Shopping Mobile App](https://github.com/eeguney/react-native-shopping-app) - **Recommended** ✨
+- [Websocket Real Time Chat Web App with Socket.IO](https://github.com/eeguney/websocket-real-time-chat) - **Recommended** ✨
 - [React Budget Planner App](https://github.com/eeguney/react-budget-planner-app) - **Recommended** ✨
 - [Vanilla JS Password Generator](https://github.com/eeguney/vanilla-javascript-password-generator)
 - [Vanilla JS Stopwatch Timer](https://github.com/eeguney/vanilla-js-stopwatch-timer)
