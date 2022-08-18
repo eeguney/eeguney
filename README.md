@@ -6,7 +6,7 @@ I am a person who trying to improve himself on the <strong>frontend</strong>. Mo
 
 ## 😍 I like;
 
-For now, I'm trying to understand and improve myself about <strong>React.JS</strong>, <strong>Node.JS</strong>, <strong>Spring Boot</strong> <strong>Next.JS</strong> and <strong>Web 3.0</strong> I've also been interested in <strong>HTML and CSS</strong> for a long time.
+For now, I'm trying to understand and improve myself about <strong>React.JS</strong>, <strong>Node.JS</strong>, <strong>Spring Boot</strong>, <strong>Next.JS</strong> and <strong>Web 3.0</strong> I've also been interested in <strong>HTML and CSS</strong> for a long time.
 
 I want to learn more and more every day. 🤘
 
