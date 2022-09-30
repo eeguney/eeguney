@@ -12,7 +12,7 @@ I want to learn more and more every day. 🤘
 
 ## :punch: My Goals;
 
-- [ ] Learn Spring Boot 
+- [ *] Learn Spring Boot 
 - [ ] Learn Web 3.0 and improve yourself
 - [ ] Getting used to writing Typescript
 - [ ] Learn Vue.js and Nuxt.js
