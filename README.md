@@ -2,7 +2,7 @@
 
 ## Welcome to Emre Güney's Profile
 
-I am a person who trying to improve himself on <strong>all web technologies</strong>. Mostly I'm work with <strong>React.JS</strong> And I'm trying to learn everything what the frontend requires.
+I am a person who trying to improve himself on <strong>all web technologies</strong>. Mostly I'm work with <strong>React.js, Next.js, Node.js and Spring Boot</strong> And I'm trying to learn everything what the frontend requires.
 
 ## 😍 I like;
 
