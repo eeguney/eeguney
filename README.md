@@ -21,6 +21,7 @@ I want to learn more and more every day. 🤘
 
 ## 🧐 Check out some of my projects;
 
+- [Twitter Clone With Spring Boot And Next.js](https://github.com/eeguney/twitter-clone-springboot-and-nextjs) - **Recommended** ✨
 - [Mern Instagram Clone](https://github.com/eeguney/mern-instagram-clone) - **Recommended** ✨
 - [Mern Next.js Emre Guney Blog](https://github.com/eeguney/mern-next.js-emreguney-blog) - **Recommended** ✨
 - [React Native Shopping Mobile App](https://github.com/eeguney/react-native-shopping-app) - **Recommended** ✨
