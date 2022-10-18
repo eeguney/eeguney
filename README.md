@@ -15,8 +15,8 @@ I want to learn more and more every day. 🤘
 - [x] Learn Spring Boot 
 - [x] Getting used to writing Typescript
 - [ ] Learn Web 3.0 and improve yourself
-- [ ] Learn Vue.js and Nuxt.js
-- [ ] Learn Swift and Flutter or React Native
+- [x] Learn Vue.js
+- [x] Learn Flutter or React Native
 - [ ] Improve my English
 
 ## 🧐 Check out some of my projects;
