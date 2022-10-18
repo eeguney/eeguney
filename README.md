@@ -23,7 +23,7 @@ I want to learn more and more every day. 🤘
 
 - [Twitter Clone With Spring Boot And Next.js](https://github.com/eeguney/twitter-clone-springboot-and-nextjs) - **Recommended** ✨
 - [Mern Instagram Clone](https://github.com/eeguney/mern-instagram-clone) - **Recommended** ✨
-- [Vue Photogram App]https://github.com/eeguney/vue-photogram-app) - **Recommended** ✨
+- [Vue Photogram App](https://github.com/eeguney/vue-photogram-app) - **Recommended** ✨
 - [Mern Next.js Emre Guney Blog](https://github.com/eeguney/mern-next.js-emreguney-blog) - **Recommended** ✨
 - [React Native Shopping Mobile App](https://github.com/eeguney/react-native-shopping-app) - **Recommended** ✨
 - [Spring Boot, MySQL, JPA, Simple Shopping Rest API](https://github.com/eeguney/spring-boot-shop-api) - **Recommended** ✨
