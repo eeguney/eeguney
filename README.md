@@ -2,7 +2,7 @@
 
 ## Welcome to Emre Güney's Profile
 
-I am a self-taught developer who trying to improve himself on <strong>all web technologies</strong>. Mostly I'm work with <strong>React.js, Next.js, Node.js and Spring Boot</strong> And 
+I am a self-taught developer who trying to improve himself on <strong>all web technologies</strong>. Mostly I'm work with <strong>React.js, Next.js, Node.js and Spring Boot</strong> 
 
 ## 😍 I like;
 
