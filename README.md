@@ -1,4 +1,5 @@
 
+
 # 👋 Hello World
 
 ## Welcome to Emre Güney's Profile
@@ -13,11 +14,11 @@ I want to learn more and more every day. 🤘
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        ### Frontend
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="85" alt="html5 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="85" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="85" alt="javascript logo"  />
@@ -30,35 +31,31 @@ I want to learn more and more every day. 🤘
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" width="85" alt="redux logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" width="85" alt="sass logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" width="85" alt="tailwindcss logo"  />
-      </td>
-      <td valign="top" width="33%">
-        ### Backend
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="60" width="85" alt="nestjs logo"  />
+</td>
+<td valign="top" width="33%">
+
+### Backend
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="60" width="85" alt="nestjs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="85" alt="nodejs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" width="85" alt="express logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="85" alt="java logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="85" alt="spring logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" width="85" alt="mongodb logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" width="85" alt="mysql logo"  />
-      </td>
-      
-     ## Others
-      
-      <td valign="top" width="33%">
-        
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" width="85" alt="postgresql logo"  />
+</td>
+<td valign="top" width="33%">      
+
+## Others
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" width="85" alt="postgresql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="60" width="85" alt="babel logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" width="85" alt="docker logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="85" alt="git logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" width="85" alt="npm logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="60" width="85" alt="webpack logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="60" width="85" alt="yarn logo"  />
-        
-      </td>
-      
-    </tr>
- 
-</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="60" width="85" alt="yarn logo"  />   
+   </td>
+  </tr>
+ </table>
 
 ## :punch: My Goals;
 
