@@ -36,4 +36,6 @@ I want to learn more and more every day. 🤘
 
 ## 🧐 Stats;
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeguney" alt="eeguney" /></a> </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeguney&show_icons=true&theme=synthwave&hide_border=true)
