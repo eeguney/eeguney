@@ -74,6 +74,7 @@ src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" wid
 ## 🧐 Stats;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeguney&show_icons=true&locale=en&layout=compact" alt="eeguney" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeguney&show_icons=true&theme=default&hide_border=true)
 
 <br clear="both">
