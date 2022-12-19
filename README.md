@@ -73,6 +73,6 @@ src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" wid
 
 ## 🧐 Stats;
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeguney" alt="eeguney" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeguney&show_icons=true&locale=en&layout=compact" alt="eeguney" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeguney&show_icons=true&theme=synthwave&hide_border=true)
