@@ -82,9 +82,9 @@ I want to learn more and more every day. 🤘
 - [ ] Improve my English
 
 ## 🧐 My Spotify;
-<div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8tly12gnnkqx23gtddtcz9xgi&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8tly12gnnkqx23gtddtcz9xgi&redirect=true)
-</div>
+
 
 <br clear="both">
 
