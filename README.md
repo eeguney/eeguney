@@ -34,6 +34,14 @@ I want to learn more and more every day. 🤘
 - [Vanilla JS Password Generator](https://github.com/eeguney/vanilla-javascript-password-generator)
 - [Vanilla JS Stopwatch Timer](https://github.com/eeguney/vanilla-js-stopwatch-timer)
 
+## Connect with me;
+
+<p align="left">
+<a href="https://twitter.com/emreguney7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emreguney7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emre-guney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-guney" height="30" width="40" /></a>
+<a href="https://instagram.com/eeguney7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eeguney7" height="30" width="40" /></a>
+</p>
+
 ## 🧐 Stats;
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeguney" alt="eeguney" /></a> </p>
