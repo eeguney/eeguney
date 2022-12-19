@@ -79,4 +79,4 @@ src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" wid
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
