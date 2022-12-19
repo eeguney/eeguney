@@ -89,11 +89,9 @@ I want to learn more and more every day. 🤘
 <a href="https://instagram.com/eeguney7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eeguney7" height="30" width="40" /></a>
 </p>
 
-## 🧐 Stats;
+## 🧐 My Spotify;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeguney&show_icons=true&locale=en&layout=compact" alt="eeguney" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeguney&show_icons=true&theme=default&hide_border=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8tly12gnnkqx23gtddtcz9xgi&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8tly12gnnkqx23gtddtcz9xgi&redirect=t
 
 <br clear="both">
 
