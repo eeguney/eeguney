@@ -1,3 +1,4 @@
+
 # 👋 Hello World
 
 ## Welcome to Emre Güney's Profile
@@ -19,7 +20,7 @@ I want to learn more and more every day. 🤘
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="85" alt="react logo"  />
  <img src="https://reactnative.dev/img/header_logo.svg" height="60" width="85" alt="react logo"  />
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" width="85" alt="jquery logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" width="85" alt="jquery logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="85" alt="nextjs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" width="85" alt="vuejs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" width="85" alt="tailwindcss logo"  />
