@@ -57,15 +57,6 @@ I want to learn more and more every day. 🤘
   </tr>
  </table>
 
-## :punch: My Goals;
-
-- [x] Learn Spring Boot 
-- [x] Getting used to writing Typescript
-- [ ] Learn Web 3.0 and improve yourself
-- [x] Learn Vue.js
-- [x] Learn Flutter or React Native
-- [ ] Improve my English
-
 ## 🧐 Check out some of my projects;
 
 - [Twitter Clone With Spring Boot And Next.js](https://github.com/eeguney/twitter-clone-springboot-and-nextjs) - **Recommended** ✨
@@ -80,6 +71,15 @@ I want to learn more and more every day. 🤘
 - [React Budget Planner App](https://github.com/eeguney/react-budget-planner-app) - **Recommended** ✨
 - [Vanilla JS Password Generator](https://github.com/eeguney/vanilla-javascript-password-generator)
 - [Vanilla JS Stopwatch Timer](https://github.com/eeguney/vanilla-js-stopwatch-timer)
+
+## :punch: My Goals;
+
+- [x] Learn Spring Boot 
+- [x] Getting used to writing Typescript
+- [ ] Learn Web 3.0 and improve yourself
+- [x] Learn Vue.js
+- [x] Learn Flutter or React Native
+- [ ] Improve my English
 
 ## Connect with me;
 
