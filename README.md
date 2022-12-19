@@ -4,7 +4,7 @@
 
 ## Welcome to Emre Güney's Profile
 
-I am a self-taught developer who trying to improve himself on <strong>all web technologies</strong>. Mostly I'm work with <strong>React.js, Next.js, Vue.js, Node.js and Spring Boot</strong> 
+I am a self-taught developer who trying to improve himself on <strong>all web technologies</strong>. Mostly I'm work with <strong>React.js, React Native, Next.js, Vue.js, Node.js, Nest.js and Spring Boot.</strong> 
 
 ## 😍 I like;
 
@@ -12,7 +12,7 @@ For now, I'm trying to understand and improve myself about <strong>React.JS</str
 
 I want to learn more and more every day. 🤘
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools;
 
 <table>
 <tr>
@@ -80,14 +80,6 @@ I want to learn more and more every day. 🤘
 - [x] Learn Vue.js
 - [x] Learn Flutter or React Native
 - [ ] Improve my English
-
-## Connect with me;
-
-<p align="left">
-<a href="https://twitter.com/emreguney7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emreguney7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emre-guney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-guney" height="30" width="40" /></a>
-<a href="https://instagram.com/eeguney7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eeguney7" height="30" width="40" /></a>
-</p>
 
 ## 🧐 My Spotify;
 
