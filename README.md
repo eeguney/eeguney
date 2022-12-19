@@ -72,11 +72,10 @@ src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" wid
 </p>
 
 ## 🧐 Stats;
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeguney&show_icons=true&locale=en&layout=compact" alt="eeguney" /></p>
-
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeguney&show_icons=true&locale=en&layout=compact" alt="eeguney" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeguney&show_icons=true&theme=default&hide_border=true)
-
+</div>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
