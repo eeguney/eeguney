@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -18,7 +19,8 @@ I want to learn more and more every day. 🤘
 <tr>
 <td valign="top" width="33%">
 
-### Frontend
+## Frontend
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="70" alt="html5 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="70" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="70" alt="javascript logo"  />
@@ -32,9 +34,10 @@ I want to learn more and more every day. 🤘
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="70" alt="sass logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" width="70" alt="tailwindcss logo"  />
 </td>
+
 <td valign="top" width="33%">
 
-### Backend
+## Backend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="50" width="70" alt="nestjs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="70" alt="nodejs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="70" alt="express logo"  />
