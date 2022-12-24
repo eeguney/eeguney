@@ -65,6 +65,7 @@ I want to learn more and more every day. 🤘
 - [Mern Instagram Clone](https://github.com/eeguney/mern-instagram-clone) - **Recommended** ✨
 - [Vue Photogram App](https://github.com/eeguney/vue-photogram-app) - **Recommended** ✨
 - [React Native GameBoss Mobile App](https://github.com/eeguney/react-native-gameboss-app) - **Recommended** ✨
+- [GameBoss NestJS - TypeORM API](https://github.com/eeguney/gameboss-nestjs-api) - **Recommended** ✨
 - [Mern Next.js Emre Guney Blog](https://github.com/eeguney/mern-next.js-emreguney-blog) - **Recommended** ✨
 - [Spring Boot, MySQL, JPA, Simple Shopping Rest API](https://github.com/eeguney/spring-boot-shop-api) - **Recommended** ✨
 - [Sample TypeORM Express API](https://github.com/eeguney?tab=repositories) - **Recommended** ✨
