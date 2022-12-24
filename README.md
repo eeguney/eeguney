@@ -79,7 +79,7 @@ I want to learn more and more every day. 🤘
 
 - [x] Learn Spring Boot 
 - [x] Getting used to writing Typescript
-- [ ] Learn Web 3.0 and improve yourself
+- [ ] Learn NestJS and a ORM technology
 - [x] Learn Vue.js
 - [x] Learn Flutter or React Native
 - [ ] Improve my English
