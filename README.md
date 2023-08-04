@@ -79,9 +79,11 @@ I want to learn more and more every day. 🤘
 
 - [x] Learn Spring Boot 
 - [x] Getting used to writing Typescript
-- [ ] Learn NestJS and a ORM technology
+- [x] Learn NestJS and a ORM technology
 - [x] Learn Vue.js
 - [x] Learn Flutter or React Native
+- [x] Learn Redis for Caching
+- [x] Learn RabbitMQ as Queue
 - [ ] Improve my English
 
 ## 🧐 My Spotify;
