@@ -9,7 +9,7 @@ I am a self-taught developer who trying to improve himself on <strong>all web te
 
 ## 😍 I like;
 
-For now, I'm trying to understand and improve myself about <strong>React.JS</strong>, <strong>Node.JS</strong>, <strong>Spring Boot</strong>, <strong>Next.JS</strong> and <strong>React Native</strong>
+For now, I'm trying to understand and improve myself about <strong>Node.JS</strong>, <strong>Nest.JS</strong>, <strong>Spring Boot</strong>, <strong>Vue.js</strong>, <strong>microservice architecture</strong>, <strong>React.JS</strong>, <strong>Next.JS</strong> and <strong>React Native</strong>
 
 I want to learn more and more every day. 🤘
 
